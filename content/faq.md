@@ -3,9 +3,10 @@
 The ERES meeting is explicitly designed for and by "emerging" researchers,
 including undergraduates, graduate students, and postdocs. We envision that the
 vast majority of the scientific talks will be given by postdocs and PhD
-students. While most of the time will be devoted to scientific talks, the
-graduate students and postdocs that make up the organizing committee are also
-planning a few panel discussions on professional development topics.  
+students, _primarily at East-coast institutions_. While most of the time will
+be devoted to scientific talks, the graduate students and postdocs that make up
+the organizing committee are also planning a few panel discussions on
+professional development topics.  
 
 For participants who do not give talks, we are entertaining two additional
 options.  The first is a virtual poster session.  The second is round-robin
@@ -17,7 +18,8 @@ form.
 ## Will it be just postdocs and PhD students?
 More senior researchers and undergraduates are also encouraged to register and
 participate.  We do envision though that the majority of the scientific talks
-will be given by postdocs and PhD students.  
+will be given by postdocs and PhD students, primarily at East coast
+institutions.
 
 ## How long will the talks be?
 Final decisions will be made once the organizing committee reviews the
