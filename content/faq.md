@@ -1,6 +1,6 @@
 ## How does ERES differ from a typical conference?
 
-The ERES meeting is explicitly designed for and by “emerging” researchers,
+The ERES meeting is explicitly designed for and by "emerging" researchers,
 including undergraduates, graduate students, and postdocs. We envision that the
 vast majority of the scientific talks will be given by postdocs and PhD
 students. While most of the time will be devoted to scientific talks, the
@@ -15,9 +15,9 @@ to engage in the latter.  You can express your preference in the registration
 form.
 
 ## Will it be just postdocs and PhD students?
-More senior researchers and undergraduates are encouraged to participate, too.
-We do envision though that the majority of the scientific talks will be given
-by postdocs and PhD students.  
+More senior researchers and undergraduates are also encouraged to register and
+participate.  We do envision though that the majority of the scientific talks
+will be given by postdocs and PhD students.  
 
 ## How long will the talks be?
 Final decisions will be made once the organizing committee reviews the
