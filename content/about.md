@@ -24,6 +24,7 @@ complement to the usual sit and listen.
 
 The event is scheduled for **1-5pm Eastern, May 17-19, 2021**.
 
-The abstract submission deadline is **March 30, 2021**.
+The [abstract submission](https://eres2021.com/register/) deadline is **March
+30, 2021**.
 
 Additional information is available in the links below.

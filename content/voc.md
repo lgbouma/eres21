@@ -1,7 +1,8 @@
 ## Virtual Organizing Committee 
 
+- Brianna Lacy (Princeton)
+- Lily Zhao (Yale)
 - Luke Bouma (Princeton)
-- Lily Zhao? (Yale)
-- Brianna Lacy? (Princeton)
 - Wenrui Xu (Princeton)
-- [your name here]
+
+[it's alphabetical]

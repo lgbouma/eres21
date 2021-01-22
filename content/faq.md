@@ -47,4 +47,3 @@ makes accommodating more people easier.  We'll see what happens!
 ## My question is not here in FAQ, what do I do now?
 Please email your question to eresorganizers@gmail.com; we will get back to you
 promptly.
-
