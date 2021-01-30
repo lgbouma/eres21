@@ -48,6 +48,6 @@ makes accommodating more people easier.  We'll see what happens!
 ## Any recommendations for presenters?
 Before preparing your talk, we recommend skimming [Winn's guidelines](https://docs.google.com/document/d/1TqGwFQTdO0bEzBFMZ6vY4jlH7zkBcTCbuF0r4YmRP5E/edit?usp=sharing).
 
-## My question is not here in FAQ, what do I do now?
+## My question is not here, what do I do?
 Please email your question to eresorganizers@gmail.com; we will get back to you
 promptly.
