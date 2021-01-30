@@ -3,7 +3,7 @@
 We are pleased to announce the sixth Emerging Researchers in Exoplanet
 Science Symposium (ERES), to be held May 17-19, 2021.
 
-ERES is aimed at early career scientists (graduate student, postdoc, advance
+ERES is aimed at early career scientists (graduate student, postdoc, advanced
 undergraduate) working in all branches of exoplanetary science and related
 disciplines. Its purpose is to give these emerging researchers the opportunity
 to present their research to an interested audience, to provide 

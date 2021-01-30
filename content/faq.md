@@ -1,12 +1,12 @@
 ## How does ERES differ from a typical conference?
 
 The ERES meeting is explicitly designed for and by "emerging" researchers,
-including undergraduates, graduate students, and postdocs. We envision that the
-vast majority of the scientific talks will be given by postdocs and PhD
-students, _primarily at East-coast institutions_. While most of the time will
-be devoted to scientific talks, the graduate students and postdocs that make up
-the organizing committee are also planning a few panel discussions on
-professional development topics.  
+including graduate students, postdocs, and advanced undergraduates. The vast
+majority of the scientific talks will be given by postdocs and PhD students.
+The scientific discussion will also be driven by junior scientists.  Although
+most of the time will be devoted to scientific talks, the organizing committee
+is also planning a few panel discussions on professional development topics;
+the panelists may span a broader range of career stages.
 
 For participants who do not give talks, we are entertaining two additional
 options.  The first is a virtual poster session.  The second is round-robin
@@ -16,10 +16,10 @@ to engage in the latter.  You can express your preference in the registration
 form.
 
 ## Will it be just postdocs and PhD students?
-More senior researchers and undergraduates are also encouraged to register and
-participate.  We do envision though that the majority of the scientific talks
-will be given by postdocs and PhD students, primarily at East coast
-institutions.
+Senior researchers and undergraduates are also encouraged to register and
+attend.  We do envision though that the majority of the scientific talks will
+be given by postdocs and PhD students, and that the scientific discussion will
+be driven by junior scientists.
 
 ## How long will the talks be?
 Final decisions will be made once the organizing committee reviews the
@@ -29,7 +29,7 @@ be 15 minutes (to mimic AAS dissertation talks).
 
 ## Are there preferred topics?
 The session topics will be chosen to reflect the abstracts submitted. We’re
-interpreting exoplanetary science broadly.  Some possible topics include:
+interpreting exoplanetary science broadly.  Possible topics include:
 * Detection: transits, RVs, imaging, microlensing, astrometry, etc.
 * Planet formation and evolution
 * Architectures & dynamics
@@ -45,6 +45,9 @@ interpreting exoplanetary science broadly.  Some possible topics include:
 ## How many people are you expecting?
 Previous ERES meetings have hosted 80-150 people.  This one is online, which
 makes accommodating more people easier.  We'll see what happens!
+
+## Any recommendations for presenters?
+Before preparing your talk, we recommend skimming [Winn's guidelines](https://docs.google.com/document/d/1TqGwFQTdO0bEzBFMZ6vY4jlH7zkBcTCbuF0r4YmRP5E/edit?usp=sharing).
 
 ## My question is not here in FAQ, what do I do now?
 Please email your question to eresorganizers@gmail.com; we will get back to you
