@@ -33,15 +33,20 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
   # Metadata mostly used in document's head
   # description = ""
-  # images = [""]
+  images = ["/static/eres21.png"]
   themeColor = "#494f5c"
 
 
   homeSubtitle = "Emerging Researchers in Exoplanet Science"
-  homeSubsubtitle = "Mon May 17 — Weds May 19, 2021. 1-5pm Eastern."
+  homeSubsubtitle = "May 17 — May 19, 2021. 1-5pm Eastern."
   homeSubsubsubtitle = "Online."
   # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
-  # bgImg = ""  # Homepage background-image URL
+  #bgImg = "eres21.png"  # Homepage background-image URL
+  #Img = "/static/eres21.png"
+  homeImg = "eres21.png"
+
+
+  # <div class="img" style="image: url('/static/eres21.png')"></div>
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = "https://github.com/username/repository/commit/"
