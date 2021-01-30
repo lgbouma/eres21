@@ -5,8 +5,7 @@ including graduate students, postdocs, and advanced undergraduates. The vast
 majority of the scientific talks will be given by postdocs and PhD students.
 The scientific discussion will also be driven by junior scientists.  Although
 most of the time will be devoted to scientific talks, the organizing committee
-is also planning a few panel discussions on professional development topics;
-the panelists may span a broader range of career stages.
+is also planning a few panel discussions on professional development topics.
 
 For participants who do not give talks, we are entertaining two additional
 options.  The first is a virtual poster session.  The second is round-robin
