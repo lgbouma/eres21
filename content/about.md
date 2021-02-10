@@ -17,10 +17,10 @@ Current partners include Cornell, Penn State, Princeton, and Yale.
 
 In 2021, we had hoped to organize an in-person conference at Princeton. We
 expect however that the online format will provide many benefits.  Along with
-plenary sessions, the event will include discussion panels and time for
-"lightly structured" interaction via [Wonder](https://wonder.me).  The idea of
-the latter is to provide space for participants to meet and talk, as a
-complement to the usual sit and listen.
+plenary sessions, the event will include discussion panels, focused on career
+development and public engagement respectively.  There will also be time for
+"lightly structured" interaction (via either [Wonder](https://wonder.me) or
+[gather.town](https://gather.town)).
 
 The event is scheduled for **1-5pm Eastern, May 17-19, 2021**.
 

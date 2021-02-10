@@ -8,25 +8,24 @@ most of the time will be devoted to scientific talks, the organizing committee
 is also planning a few panel discussions on professional development topics.
 
 For participants who do not give talks, we are entertaining two additional
-options.  The first is a virtual poster session.  The second is round-robin
-meet-and-greets in small breakout groups, with the opportunity to present and
-discuss a single result.  Everyone involved in the conference would be expected
-to engage in the latter.  You can express your preference in the registration
-form.
+options.  The first is to hold a virtual poster session, within a virtual
+conference hall.  The second is round-robin meet-and-greets in small breakout
+groups, with the opportunity to present and discuss a single result.  You can
+express your preference in the registration form.
 
 ## Will it be just postdocs and PhD students?
 Senior researchers and undergraduates are also encouraged to register and
 attend.  We do envision though that the majority of the scientific talks will
-be given by postdocs and PhD students, and that the scientific discussion will
+be given by PhD students and postdocs, and that the scientific discussion will
 be driven by junior scientists.
 
 ## How long will the talks be?
 Final decisions will be made once the organizing committee reviews the
-abstracts submitted. Based on the large number of prospective participants
+abstracts submitted. Based on the number of prospective participants
 expressing interest in giving a talk, we anticipate that most talks (Q+A) will
 be 15 minutes (to mimic AAS dissertation talks).
 
-## Are there preferred topics?
+## Are there preferred topics for talks?
 The session topics will be chosen to reflect the abstracts submitted. We’re
 interpreting exoplanetary science broadly.  Possible topics include:
 * Detection: transits, RVs, imaging, microlensing, astrometry, etc.
