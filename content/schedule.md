@@ -1,6 +1,6 @@
 # Schedule
 
-To be announced early April.
+To be announced mid April.
 
 Most of the time will be dedicated to _contributed talks_.
 
