@@ -38,7 +38,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 
   homeSubtitle = "Emerging Researchers in Exoplanet Science"
-  homeSubsubtitle = "May 17 — May 19, 2021. 1-5pm Eastern."
+  homeSubsubtitle = "May 24 — May 26, 2021. 1-5pm Eastern."
   homeSubsubsubtitle = "Online."
   # footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   bgImg = "eres21art.png"  # Homepage background-image URL
