@@ -1,7 +1,7 @@
 # Welcome!
 
 We are pleased to announce the sixth Emerging Researchers in Exoplanet
-Science Symposium (ERES), to be held May 17-19, 2021.
+Science Symposium (ERES), to be held May 24-26, 2021.
 
 ERES is aimed at early career scientists (graduate student, postdoc, advanced
 undergraduate) working in all branches of exoplanetary science and related
@@ -22,9 +22,9 @@ development and public engagement respectively.  There will also be time for
 lightly structured interaction (via either [Wonder](https://wonder.me) or
 [gather.town](https://gather.town)).
 
-The event is scheduled for **1-5pm Eastern, May 17-19, 2021**.
+The event is scheduled for **1-5pm Eastern, May 24-26, 2021**.
 
-The [abstract submission](https://eres2021.com/register/) deadline is **March
-30, 2021**.
+The [abstract submission](https://eres2021.com/register/) deadline is **April
+2, 2021**, at 5pm Eastern.
 
 Additional information is available in the links below.
