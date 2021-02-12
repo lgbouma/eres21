@@ -19,8 +19,7 @@ In 2021, we had hoped to organize an in-person conference at Princeton. We
 expect however that the online format will provide many benefits.  Along with
 plenary sessions, the event will include discussion panels, focused on career
 development and public engagement respectively.  There will also be time for
-lightly structured interaction (via either [Wonder](https://wonder.me) or
-[gather.town](https://gather.town)).
+lightly structured interaction (via [gather.town](https://gather.town)).
 
 The event is scheduled for **1-5pm Eastern, May 24-26, 2021**.
 
