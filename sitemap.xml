@@ -103,6 +103,11 @@
   </url>
   
   <url>
+    <loc>https://eres2021.com/conduct/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eres2021.com/faq/</loc>
     <priority>0</priority>
   </url>

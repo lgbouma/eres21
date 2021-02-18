@@ -101,6 +101,16 @@ ERES is aimed at early career scientists (graduate student, postdoc, advanced un
     
     <item>
       <title></title>
+      <link>https://eres2021.com/conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eres2021.com/conduct/</guid>
+      <description>Code of Conduct Emerging Researchers in Exoplanet Science (ERES) has a zero tolerance policy for harassment of any kind. All attendees have the right to a space free of all forms of discrimination, harassment and retaliation. Harassment on the basis of any characteristic, protected or otherwise, is a form of misconduct, and violators of this policy will be subject to disciplinary action, as outlined below.
+We follow the AAS Code of Ethics, and expect all participants to read and abide by the statements in the AAS Code of Ethics.</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://eres2021.com/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -114,8 +124,7 @@ ERES is aimed at early career scientists (graduate student, postdoc, advanced un
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eres2021.com/register/</guid>
-      <description>Register To register for the meeting, and (optionally) submit an abstract for a talk, please click here.
-This form also gives you the ability to express your preference between the ideas of 1) a virtual poster session, or 2) round-robin meet-and-greets in small breakout groups.
+      <description>Register To register for the meeting, and (optionally) submit an abstract for a talk or poster, please click here.
 The abstract submission deadline is April 2, 2021. We will respond shortly thereafter.</description>
     </item>
     
@@ -126,9 +135,9 @@ The abstract submission deadline is April 2, 2021. We will respond shortly there
       
       <guid>https://eres2021.com/schedule/</guid>
       <description>Schedule To be announced mid April.
-Most of the time will be dedicated to contributed talks.
+Most of the time will be dedicated to contributed talks. There will be a virtual poster session.
 We will also invite a few speakers for discussion panels, to be held on the topics of career development and public engagement respectively.
-Finally, there will be some time for interacting with each other in an unstructured way. As we would in meatspace.</description>
+Finally, there will be time for interacting with each other in an unstructured way. As we would in meatspace.</description>
     </item>
     
     <item>
@@ -137,7 +146,7 @@ Finally, there will be some time for interacting with each other in an unstructu
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eres2021.com/voc/</guid>
-      <description>Virtual Organizing Committee  Brianna Lacy (Princeton) Guðmundur Stefánsson (Princeton) Erin Flowers (Princeton) Ishan Mishra (Cornell) Jiayin Dong (Penn State) Lily Zhao (Yale) Luke Bouma (Princeton) Samuel Yee (Princeton) Thea Kozakis (Technical University of Denmark) Wenrui Xu (Princeton)  </description>
+      <description>Virtual Organizing Committee  Brianna Lacy (Princeton) Guðmundur Stefánsson (Princeton) Erin Flowers (Princeton) Ishan Mishra (Cornell) Jiayin Dong (Penn State) Lily Zhao (Yale) Luke Bouma (Princeton) Samuel Yee (Princeton) Thea Kozakis (Cornell/Technical University of Denmark) Wenrui Xu (Princeton)  </description>
     </item>
     
   </channel>
