@@ -5,13 +5,8 @@ including graduate students, postdocs, and advanced undergraduates. The vast
 majority of the scientific talks will be given by postdocs and PhD students.
 The scientific discussion will also be driven by junior scientists.  Although
 most of the time will be devoted to scientific talks, the organizing committee
-is also planning a few panel discussions on professional development topics.
-
-For participants who do not give talks, we are entertaining two additional
-options.  The first is to hold a virtual poster session, within a virtual
-conference hall.  The second is round-robin meet-and-greets in small breakout
-groups, with the opportunity to present and discuss a single result.  You can
-express your preference in the registration form.
+is also planning a few panel discussions on professional development topics.  A
+poster session will also be held, within a virtual conference hall.
 
 ## Will it be just postdocs and PhD students?
 Senior researchers and undergraduates are also encouraged to register and
