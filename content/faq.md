@@ -35,6 +35,22 @@ interpreting exoplanetary science broadly.  Possible topics include:
 * Habitability & biosignatures
 * Future missions & observatories.
 
+## How will talk slots be assigned from the pool of applicants?
+
+Talk slots will preferentially be given to emerging researchers, prioritizing more junior graduate students (years 1-2) before senior graduate students (years 3+) and postdocs.  Preference will also be given to applicants from schools in the northeast area to preserve the founding intent of the ERES conference series.  Students and researchers from all career stages and geographic location are encouraged to register for ERES and join in on conference activities and scientific discussions.
+
+## What are other local talk opportunities?
+
+Those interested in giving a talk at any of the ERES host institutions--Cornell, Penn State, Princeton, Yale--are invited to coordinate with the organizers of institution-specific talk opportunities.
+
+Cornell hosts a weekly Planetary Lunch Seminary Series (PLunch), an informal seminar series presented to faculty members, research associates, graduate students, and undergraduate students from various academic departments.  For further information, please email Ngoc Truong (tnt45@cornell.edu).
+
+The Penn State Center for Exoplanets & Habitable Worlds (CEHW) hosts a [weekly lunch](https://exoplanets.psu.edu/events-page/seminars/) seminar that invites outside speakers to present.  Please contact Dan Stevens (danstevens@psu.edu) for more information. 
+
+Princeton hosts an [exoplanet meeting](https://web.astro.princeton.edu/events/seminars/extrasolar-planets) every Monday at noon that invites outside speakers to present. Please contact Josh Winn (jnwinn@princeton.edu) for more information. A separate speaking opportunity at Princeton is “[Thunch](https://web.astro.princeton.edu/Thunch)”. Please contact Roberto Tejada Arevalo (arevalo@princeton.edu) for further information.
+
+Yale hosts a weekly Exoplanets and Stars Seminar that invites outside speakers to present to graduate students, postdocs, and faculty; please contact Malena Rice (malena.rice@yale.edu) for more information.
+
 ## How many people are you expecting?
 Previous ERES meetings have hosted 80-150 people.  This one is online, which
 makes accommodating more people easier.  We'll see what happens!
