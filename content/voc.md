@@ -1,6 +1,7 @@
 ## Virtual Organizing Committee 
 
 - Brianna Lacy (Princeton)
+- Chirstopher Spalding (Princeton)
 - Guðmundur Stefánsson (Princeton)
 - Erin Flowers (Princeton)
 - Ishan Mishra (Cornell)
