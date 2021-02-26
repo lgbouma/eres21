@@ -23,6 +23,7 @@ poster session, and time for lightly structured interaction via
 [gather.town](https://gather.town).
 
 The event is scheduled for **1-5pm Eastern, May 24-26, 2021**.
+It will be **live and synchronous**.
 
 The [abstract submission](https://eres2021.com/register/) deadline is **April
 2, 2021**, at 5pm Eastern.
