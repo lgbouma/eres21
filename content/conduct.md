@@ -89,15 +89,17 @@ unsure of the situation.
 ## Procedure for reporting harassment
 
 If you wish to report harassment, suspect that someone else is being harassed,
-or have any other concerns, please contact a member of the ERES virtual
-organizing committee immediately. No one will be faulted for making a report in
-good faith about suspected harassment. The committee’s response to witnessed or
-experienced harassment will be to report the conduct to Princeton University as per the
-University’s anti-harassment policy and, based on discussion and
-agreement with the person being harassed, take action accordingly. This can
-range from requesting that no administrative processes be initiated, to
-informal resolution such as a letter of reprimand, to formal resolution
-including disciplinary action and police involvement.
+or have any other concerns, please use _**[this anonymized
+form](https://docs.google.com/forms/d/e/1FAIpQLSfoY1b19X6LwMPAfF49wvInhMDhaNFhldKzEJ6tUbHCCvUHyA/viewform)**_,
+or contact a member of the ERES virtual organizing committee directly. No one
+will be faulted for making a report in good faith about suspected harassment.
+The committee’s response to witnessed or experienced harassment will be to
+report the conduct to Princeton University as per the University’s
+anti-harassment policy and, based on discussion and agreement with the person
+being harassed, take action accordingly. This can range from requesting that no
+administrative processes be initiated, to informal resolution such as a letter
+of reprimand, to formal resolution including disciplinary action and police
+involvement.
 
 If you have any questions or concerns regarding this policy, please contact the
 ERES Virtual Organizing Committee at eresorganizers@gmail.com.

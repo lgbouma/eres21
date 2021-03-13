@@ -94,6 +94,11 @@ Yale hosts a weekly Exoplanets and Stars Seminar that invites outside speakers
 to present to graduate students, postdocs, and faculty; please contact Malena
 Rice (malena.rice@yale.edu) for more information.
 
+## I have an accessibility concern, will it be addressed?
+Please contact us at eresorganizers@gmail.com, or through the **[anonymous
+feedback
+form](https://docs.google.com/forms/d/e/1FAIpQLSfoY1b19X6LwMPAfF49wvInhMDhaNFhldKzEJ6tUbHCCvUHyA/viewform)**,
+and we will see what we can do!
 
 ## My question is not here, what do I do?
 Please email your question to eresorganizers@gmail.com; we will get back to you
