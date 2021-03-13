@@ -1,11 +1,14 @@
 # Code of Conduct
 
 Emerging Researchers in Exoplanet Science (ERES) has a zero tolerance policy
-for harassment of any kind. All attendees have the right to a space free of all
-forms of discrimination, harassment and retaliation. Harassment on the basis of
-any characteristic, protected or otherwise, is a form of misconduct, and
-violators of this policy will be subject to disciplinary action, as outlined
-below.
+for harassment of any kind.  All attendees have the right to a space free of
+all forms of discrimination, harassment and retaliation.  If you would like to
+report a concern you have about the conference or a participant's conduct,
+please use _**[this anonymized
+form](https://docs.google.com/forms/d/e/1FAIpQLSfoY1b19X6LwMPAfF49wvInhMDhaNFhldKzEJ6tUbHCCvUHyA/viewform)**_.
+Harassment on the basis of any characteristic, protected or otherwise, is a
+form of misconduct, and violators of this policy will be subject to
+disciplinary action, as outlined below.
 
 We follow the [AAS Code of Ethics](https://aas.org/policies/ethics), and expect
 all participants to read and abide by the statements in the [AAS Code of
