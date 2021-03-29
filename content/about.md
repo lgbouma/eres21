@@ -28,4 +28,7 @@ It will be **live and synchronous**.
 The [abstract submission](https://eres2021.com/register/) deadline is **April
 2, 2021**, at 5pm Eastern.
 
+We are [on twitter (@ERESsym)](https://twitter.com/eressym)! Our hashtag is
+[#eres2021](https://twitter.com/search?q=eres2021).
+
 Additional information is available in the links below.
