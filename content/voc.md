@@ -1,7 +1,8 @@
 ## Virtual Organizing Committee 
 
 - Brianna Lacy (Princeton, she/hers)
-- Chirstopher Spalding (Princeton, he/him)
+- Christopher Spalding (Princeton, he/him)
+- Daniel Tamayo (Princeton, he/him)
 - Guðmundur Stefánsson (Princeton, he/him)
 - Erin Flowers (Princeton, she/hers)
 - Ishan Mishra (Cornell, he/him)
@@ -9,5 +10,6 @@
 - Lily Zhao (Yale, she/hers)
 - Luke Bouma (Princeton, he/him)
 - Samuel Yee (Princeton, he/him)
+- Sara Millholland (Princeton, she/hers)
 - Thea Kozakis (Cornell/Technical University of Denmark, she/hers)
 - Wenrui Xu (Princeton, he/him)
