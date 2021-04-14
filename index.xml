@@ -139,6 +139,15 @@ The abstract submission deadline is April 2, 2021. We will respond shortly there
     
     <item>
       <title></title>
+      <link>https://eres2021.com/sandbox/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eres2021.com/sandbox/</guid>
+      <description>hi A bunch of code here  import numpy as np import pandas as pd df = pd.read_csv(&amp;#34;temp.csv&amp;#34;) This is raw HTML, inside Markdown. </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://eres2021.com/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -150,11 +159,33 @@ There will also be two discussion panels, to be held on the topics of career dev
     
     <item>
       <title></title>
+      <link>https://eres2021.com/schedule_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eres2021.com/schedule_backup/</guid>
+      <description>Schedule The full schedule will be announced in mid April.
+Most of the time will be dedicated to contributed talks. There will be a virtual poster session.
+There will also be two discussion panels, to be held on the topics of career development and public engagement. For our public engagement panel, we look forward to welcoming Mark Newhouse (NOIRLab/Gemini Observatory), Jessie Christiansen (Caltech IPAC/NExScI), and David Kipping (Columbia). For our career development panel, we will be welcoming Megan Shabram (Bountiful), Ian Czekala (Penn State), and Susan Mullally (STScI).</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eres2021.com/schedule_staging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eres2021.com/schedule_staging/</guid>
+      <description>Schedule The full schedule will be announced in mid April.
+Most of the time will be dedicated to contributed talks. There will be a virtual poster session.
+There will also be two discussion panels, to be held on the topics of career development and public engagement. For our public engagement panel, we look forward to welcoming Mark Newhouse (NOIRLab/Gemini Observatory), Jessie Christiansen (Caltech IPAC/NExScI), and David Kipping (Columbia). For our career development panel, we will be welcoming Megan Shabram (Bountiful), Ian Czekala (Penn State), and Susan Mullally (STScI).</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://eres2021.com/voc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://eres2021.com/voc/</guid>
-      <description>Virtual Organizing Committee  Brianna Lacy (Princeton, she/hers) Christopher Spalding (Princeton, he/him) Daniel Tamayo (Princeton, he/him) Guðmundur Stefánsson (Princeton, he/him) Erin Flowers (Princeton, she/hers) Ishan Mishra (Cornell, he/him) Jiayin Dong (Penn State, she/hers) Lily Zhao (Yale, she/hers) Luke Bouma (Princeton, he/him) Samuel Yee (Princeton, he/him) Sara Millholland (Princeton, she/hers) Thea Kozakis (Cornell/Technical University of Denmark, she/hers) Wenrui Xu (Princeton, he/him)  </description>
+      <description>Virtual Organizing Committee  Brianna Lacy (Princeton, she/hers) Christopher Spalding (Princeton, he/him) Daniel Tamayo (Princeton, he/him) Guðmundur Stefánsson (Princeton, he/him) Erin Flowers (Princeton, she/hers) Ishan Mishra (Cornell, he/him) Jiayin Dong (Penn State, she/hers) Lily Zhao (Yale, she/hers) Luke Bouma (Princeton, he/him) Samuel Yee (Princeton, he/him) Sarah Millholland (Princeton, she/hers) Thea Kozakis (Cornell/Technical University of Denmark, she/hers) Wenrui Xu (Princeton, he/him)  </description>
     </item>
     
   </channel>

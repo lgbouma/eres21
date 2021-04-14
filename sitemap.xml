@@ -123,7 +123,22 @@
   </url>
   
   <url>
+    <loc>https://eres2021.com/sandbox/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eres2021.com/schedule/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eres2021.com/schedule_backup/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eres2021.com/schedule_staging/</loc>
     <priority>0</priority>
   </url>
   
