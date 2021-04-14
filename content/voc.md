@@ -10,6 +10,6 @@
 - Lily Zhao (Yale, she/hers)
 - Luke Bouma (Princeton, he/him)
 - Samuel Yee (Princeton, he/him)
-- Sara Millholland (Princeton, she/hers)
+- Sarah Millholland (Princeton, she/hers)
 - Thea Kozakis (Cornell/Technical University of Denmark, she/hers)
 - Wenrui Xu (Princeton, he/him)
