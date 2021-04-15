@@ -1,14 +1,14 @@
 # Welcome!
 
-We are pleased to announce the sixth Emerging Researchers in Exoplanet
-Science Symposium (ERES), to be held May 24-26, 2021.
+We are pleased to announce the sixth Emerging Researchers in Exoplanet Science
+Symposium (ERES), to be held May 24-26, 2021.
 
 ERES is aimed at early career scientists (graduate student, postdoc, advanced
 undergraduate) working in all branches of exoplanetary science and related
 disciplines. Its purpose is to give these emerging researchers the opportunity
-to present their research to an interested audience, to provide 
-opportunities to network with peers, and to enhance collaborations within the
-exoplanet community.
+to present their research to an interested audience, to provide opportunities
+to network with peers, and to enhance collaborations within the exoplanet
+community.
 
 ERES has been held annually on a rotating basis between partner institutions
 since 2015 (see
@@ -17,16 +17,14 @@ Current partners include Cornell, Penn State, Princeton, and Yale.
 
 In 2021, we had hoped to organize an in-person conference at Princeton. We
 expect however that the online format will provide many benefits.  Along with
-plenary sessions, the event will include discussion panels, focused on career
-development and public engagement respectively.  There will also be a virtual
-poster session, and time for lightly structured interaction via
-[gather.town](https://gather.town).
+plenary and session talks, the event will include discussion panels, focused on
+career development and public engagement respectively.  There will also be a
+virtual poster session, and time for lightly structured interaction via
+[gather.town](https://gather.town).  Per popular request, there will also be
+trivia. See **[the schedule](https://eres2021.com/schedule/)**.
 
-The event is scheduled for **1-5pm Eastern, May 24-26, 2021**.
-It will be **live and synchronous**.
-
-The [abstract submission](https://eres2021.com/register/) deadline is **April
-2, 2021**, at 5pm Eastern.
+The event is scheduled for **1-5pm Eastern, May 24-26, 2021**.  It will be
+**live and synchronous**.
 
 We are [on twitter (@ERESsym)](https://twitter.com/eressym)! Our hashtag is
 [#eres2021](https://twitter.com/search?q=eres2021).
