@@ -23,7 +23,7 @@ We hope that the schedule will provide time for scientific discussion via zoom
 and slack, and for interacting with each other in a less structured format via
 gather.
 
-**[Click here for a web link to the schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLUSGN5vUHfH0_CgHx6ftlPzsh-vbr7WvV2vR8UVIx9jOgPR1S3uQlqjBU0oJAluRMc5VXDJsgoqs8/pubhtml?gid=439566145&single=true)**. An embedded version is below. Given the tiny font, this is easiest to read on desktop. **[tinyurl.com/eres2021block](tinyurl.com/eres2021block)** is another way of accessing this information.
+**[Click here for a web link to the schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLUSGN5vUHfH0_CgHx6ftlPzsh-vbr7WvV2vR8UVIx9jOgPR1S3uQlqjBU0oJAluRMc5VXDJsgoqs8/pubhtml?gid=439566145&single=true)**. An embedded version is below. Given the tiny font, this is easiest to read on desktop. **[tinyurl.com/eres2021block](https://tinyurl.com/eres2021block)** is another way of accessing this information.
 
 {{< rawhtml >}}
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSLUSGN5vUHfH0_CgHx6ftlPzsh-vbr7WvV2vR8UVIx9jOgPR1S3uQlqjBU0oJAluRMc5VXDJsgoqs8/pubhtml?gid=439566145&amp;single=false&amp;widget=false&amp;headers=false" width="100%" height="1500px" align="center"></iframe>
