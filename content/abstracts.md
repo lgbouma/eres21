@@ -1,6 +1,6 @@
 A table containing the talk and poster abstracts is posted below, in
 alphabetical order of last name.  Poster identifiers are in a
-`topic.idnumber` schema, and may change up until May 17 due to late-arriving
+`topic.idnumber` schema, and may change up until May 10 due to late-arriving
 poster abstracts.
 
 **[A PDF copy of the table is available here](/pdfs/abstracts.pdf)**
