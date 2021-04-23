@@ -1,7 +1,18 @@
 A table containing the talk and poster abstracts is posted below, in
-alphabetical order of last name.  Poster identifiers are in a
-`topic.idnumber` schema, and may change up until May 10 due to late-arriving
-poster abstracts.
+alphabetical order of last name.
+
+Poster identifiers are in a `topic.idnumber` schema, where the `idnumber` may
+change up until May 10 due to late-arriving poster abstracts. Categories are as
+follows:
+1. Atmospheres and Interiors
+2. Detection: Transits, RVs, Microlensing, Astrometry, Imaging
+3. Planet Formation (+ Disk) + Evolution
+4. Know Your Star
+5. Population Statistics & Occurrence
+6. Dynamics
+7. Instrumentation / Future
+8. Habitability & Astrobiology
+9. Machine Learning / Techniques / Methods
 
 **[A PDF copy of the table is available here](/pdfs/abstracts.pdf)**
 
