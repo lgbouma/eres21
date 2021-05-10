@@ -1,15 +1,16 @@
 # List of Attendees
 
-Last updated: May 8, 2021
+Last updated: May 10, 2021
 
 * Akinsanmi, Babatunde (University of Porto, Portugal)
 * Alam, Munazza (Harvard University)
 * Alderson, Lili (University of Bristol)
 * Anderson, Kassandra (Princeton University)
 * Angelo, Isabel (UCLA)
+* Ayyalapu, Neha (West Windsor-Plainsboro High School South)
 * Bailey, Nora (University of Chicago)
-* Banerjee, Agnibha (Indian Institute of Science Education and Research, Kolkata)
 * Banerjee, Bihan (Tata Institute of Fundamental Research, Mumbai, India)
+* Banerjee, Agnibha (Indian Institute of Science Education and Research, Kolkata)
 * Barma, Judhajit  (Indian Institute Of Science Education And Research -Kolkata)
 * Barua, Shiblee (NASA Goddard)
 * Bashyal, Angel (GoldenGate Int'l college, Tribhuvan University)
@@ -89,8 +90,8 @@ Last updated: May 8, 2021
 * Hord, Ben (University of Maryland, College Park/GSFC)
 * Huston, Macy (Penn State)
 * Jackman, James (Arizona State University)
-* Jackson, Pierce (Auburn University)
 * Jackson, Jonathan (Penn State University)
+* Jackson, Pierce (Auburn University)
 * Janke, Daniel (Universität Würzburg)
 * Johnson, Peter Anto (University of Alberta)
 * Johnson, John Christy  (University of Alberta)
@@ -133,8 +134,8 @@ Last updated: May 8, 2021
 * Morehead, Robert (Penn State)
 * Murphy, Matthew (University of Arizona)
 * Ng, Lillie (VNU)
-* Nguyen, Fuda (Vietnam National University)
 * Nguyen, Giang (York University)
+* Nguyen, Fuda (Vietnam National University)
 * Nibauer, Jacob (University of Pennsylvania)
 * O'Connor, Christopher (Cornell University)
 * Olander, Terese (Uppsala University)
