@@ -8,7 +8,7 @@ request, Tuesday evening we will be hosting a trivia night.  Bring your A-game!
 
 The _discussion panels_ will be held on the topics of career development and
 public engagement.  For our public engagement panel, we look forward to
-welcoming [Mark Newhouse](https://www.noao.edu/outreach/epostaff/mark)
+welcoming [Mark Newhouse](https://www.linkedin.com/in/mark-newhouse-2b574655)
 (NOIRLab/Gemini Observatory), [Jessie
 Christiansen](http://web.ipac.caltech.edu/staff/christia/) (Caltech
 IPAC/NExScI), and [David
