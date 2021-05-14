@@ -148,7 +148,7 @@ Last updated: May 10, 2021
 * Panja, Mayukh (Max Planck Institute for Solar System Research)
 * Paradise, Adiv (University of Toronto)
 * Parimucha, Stefan (Faculty of Science, University of P.J. Safarik)
-* Parts, Vanessa/Vaughn (Penn State University)
+* Parts, Winter (Penn State University)
 * Perez, Adrianna (Harvard University)
 * Peters, Dewy (Kapteyn Astronomical Institute)
 * Pham, Dang (University of Toronto)
