@@ -1,6 +1,10 @@
 A table containing the talk and poster abstracts is posted below, in
 alphabetical order of last name.
 
+**[The posters themselves can be viewed on ZENODO (click for
+link)](https://zenodo.org/communities/eres-2021/?page=1&size=20)**, as well as
+during the gather.town live viewing sessions.
+
 Poster identifiers are in a `topic.idnumber` schema. Categories are as follows:
 1. Atmospheres and Interiors
 2. Detection: Transits, RVs, Microlensing, Astrometry, Imaging
