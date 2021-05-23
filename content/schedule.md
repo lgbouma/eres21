@@ -18,7 +18,7 @@ Shabram](https://www.linkedin.com/in/meganshabram) (Bountiful), [Ian
 Czekala](https://sites.psu.edu/iczekala/) (Penn State), and [Susan
 Mullally](https://www.stsci.edu/stsci-research/research-directory/susan-e-mullally)
 (STScI).
-Bios for the career panelists are available **[through this link](/pdfs/career_panel_bios.pdf)**.
+Bios for the career panelists are available **[through this link](/pdfs/career_panel_bios.pdf)**, and bios for the public engagement panelists are available **[through this link](/pdfs/public_engagement_bios.pdf)**.
 
 **[Click here for a web link to the schedule](https://docs.google.com/spreadsheets/d/e/2PACX-1vSLUSGN5vUHfH0_CgHx6ftlPzsh-vbr7WvV2vR8UVIx9jOgPR1S3uQlqjBU0oJAluRMc5VXDJsgoqs8/pubhtml?gid=439566145&single=true)**. An embedded version is below. Given the tiny font, this is easiest to read on desktop. **[tinyurl.com/eres2021block](https://tinyurl.com/eres2021block)** is another way of accessing this information.
 
